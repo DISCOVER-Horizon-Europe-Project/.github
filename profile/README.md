@@ -8,7 +8,7 @@ The DISCOVER (GA 101129909) project is funded by the European Union. Views and o
 
 ## Partners Repositories
 
-- CDEI-UPC: [UPC-DISCOVER-Project] (https://github.com/DISCOVER-Horizon-Europe-Project/UPC-DISCOVER-Project)
+- CDEI-UPC: [UPC-DISCOVER-Project](https://github.com/DISCOVER-Horizon-Europe-Project/UPC-DISCOVER-Project)
 
 
 ## Links
